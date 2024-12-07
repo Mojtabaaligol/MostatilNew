@@ -17,6 +17,7 @@ namespace MostatilNew
             double b = double.Parse(Console.ReadLine());
 
             Console.WriteLine(b*a);
+            Console.WriteLine((b + a)*2);
 
             Console.ReadKey();
         }
