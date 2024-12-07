@@ -16,7 +16,7 @@ namespace MostatilNew
             Console.WriteLine("arz ra vared konid :");
             double b = double.Parse(Console.ReadLine());
 
-
+            Console.WriteLine(b*a);
 
             Console.ReadKey();
         }
